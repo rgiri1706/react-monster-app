@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+h1{
+  font-family: 'Bigelow Rules', cursive;
+  color: aquamarine;
+  font-size: 72px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
